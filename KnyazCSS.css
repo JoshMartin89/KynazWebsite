@@ -1,0 +1,68 @@
+@charset "utf-8";
+p {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 16px;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 24pt;
+    text-shadow: -1px 2px #000000;
+    text-align: center;
+}
+h2 {
+    color: #FFFFFF;
+    font-family: "Baskerville Old Face";
+    font-size: 26pt;
+    text-shadow: -3px 3px #000000;
+}
+
+
+.AlgRed {
+    color: #E02C2B;
+    font-family: Algerian;
+    font-variant: normal;
+    font-size: 24pt;
+    text-decoration: none;
+    text-shadow: -2px 3px #000000;
+    text-align: center;
+}
+h3 {
+    color: #E02C2B;
+    font-family: Algerian;
+    font-size: 26pt;
+    text-shadow: -2px 3px #000000;
+    text-align: center;
+}
+h4 {
+    color: #FFEE82;
+    font-family: "Old English Text MT";
+    font-size: 28pt;
+    text-shadow: -3px 3px 1px #000000;
+	text-align: center;
+}
+
+.ForumText {
+    color: #FFFFFF;
+    font-family: Perpetua;
+    font-size: 14pt;
+    text-align: left;
+    clear: none;
+}
+.OldGold {
+    color: #FFEE82;
+    font-family: "Old English Text MT";
+    font-size: 24pt;
+    text-shadow: -3px 3px 1px #000000;
+}
+body {
+    background-image: url(images/Wall.jpg);
+    background-repeat: repeat;
+}
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+}
